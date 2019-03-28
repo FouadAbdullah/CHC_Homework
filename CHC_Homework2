@@ -1,0 +1,4 @@
+أهم المعلومات المطلوبة في مرحلة الفحص 
+up/down ex: (nmap -sP (Targetip))
+ports number ex: (nmap -sT (Targetip))
+Services ex: (nmap -sX -sV (Tergetip) )
